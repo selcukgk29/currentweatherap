@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1684
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HavaDurumu", "HavaDurumu\HavaDurumu.csproj", "{69774C89-AAE3-49C4-BCF2-8FFCB506F767}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "havadurumusetup", "havadurumusetup\havadurumusetup.vdproj", "{B0852893-D13B-449A-8DCA-766F23101027}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69774C89-AAE3-49C4-BCF2-8FFCB506F767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69774C89-AAE3-49C4-BCF2-8FFCB506F767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69774C89-AAE3-49C4-BCF2-8FFCB506F767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69774C89-AAE3-49C4-BCF2-8FFCB506F767}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0852893-D13B-449A-8DCA-766F23101027}.Debug|Any CPU.ActiveCfg = Debug
+		{B0852893-D13B-449A-8DCA-766F23101027}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F8896D0-78FF-4A8A-AE2B-56D9AAB08D8C}
+	EndGlobalSection
+EndGlobal
